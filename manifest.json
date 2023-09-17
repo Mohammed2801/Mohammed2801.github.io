@@ -1,6 +1,6 @@
 {
-    "name": "webapi",
-    "short_name": "webapi",
+    "name": "givers",
+    "short_name": "givers",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
